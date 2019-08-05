@@ -1,8 +1,8 @@
-#File conversion resources
+## File conversion resources
 
 As population geneticists, we spend an awful amount of time converting file formats. Here are a couple of tools I found useful.
 
-##PGDSpider
+### PGDSpider
 
 PGDSpider (http://www.cmpg.unibe.ch/software/PGDSpider/)
 is a widely known software that allows for easy conversion between common file formats such as STRUCTURE, GENEPOP, ARELQUIN, etc. The user is
@@ -68,5 +68,5 @@ Here's an example of a "spid" file I created for converting from STRUCTURE to GE
 
 > GENEPOP_WRITER_LOCUS_COMBINATION_QUESTION=
 
-##genomic_converter
+### genomic_converter
 
